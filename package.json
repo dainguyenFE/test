@@ -1,0 +1,17 @@
+{
+  "name": "astro-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^6.1.2"
+  },
+  "devDependencies": {
+    "@astrojs/vercel": "^10.0.3",
+    "typescript": "^5.9.0"
+  }
+}
